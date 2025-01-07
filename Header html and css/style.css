@@ -97,6 +97,7 @@ ul {
   overflow: hidden;
   text-overflow: ellipsis;
   color: #000;
+  font-size: 18px;
 }
 
 #mainNav li a:hover {
