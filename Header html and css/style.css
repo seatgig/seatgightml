@@ -100,7 +100,6 @@ ul {
 }
 
 #mainNav li a:hover {
-  color: transparent;
   border-bottom: 1px solid #ff652f;
   transform: scale(0.9);
   transition: all 0.3s;
